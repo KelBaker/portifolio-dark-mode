@@ -1,4 +1,4 @@
-link do meu projeto: [https://desafio3-portifolio.vercel.app/](https://portifoliomododark.vercel.app/)
+link do meu projeto: https://portifoliomododark.vercel.app/
 
 # React + Vite
 
